@@ -42,4 +42,4 @@ The "Add Friends" project is a simple web application that allows users to add f
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or create a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+The project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
