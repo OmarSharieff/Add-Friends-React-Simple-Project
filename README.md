@@ -22,7 +22,7 @@ The "Add Friends" project is a simple web application that allows users to add f
 
 2. **Navigate to the project directory**:
    ```
-   cd add-friends
+   cd Add-Friends-React-Simple-Project
    ```
 
 3. **Install dependencies**:
