@@ -17,7 +17,7 @@ The "Add Friends" project is a simple web application that allows users to add f
 ### Steps
 1. **Clone the repository**: 
    ```
-   git clone https://github.com/yourusername/add-friends.git
+   git clone https://github.com/OmarSharieff/Add-Friends-React-Simple-Project.git
    ```
 
 2. **Navigate to the project directory**:
